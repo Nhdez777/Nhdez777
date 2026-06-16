@@ -17,7 +17,7 @@ nadia = {
 
 - 🛠 **TaskFlow** — a full-stack productivity app with real-time sync and drag-and-drop boards
 - 📊 **AlgoViz** — interactive visualizer for sorting/graph algorithms (because static textbooks don't cut it)
-- ✨ cleaning up old projects and making them actually presentable
+- ✨ cleaning up old projects and bringing them to github
 
 ---
 
