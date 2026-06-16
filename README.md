@@ -1,9 +1,9 @@
-# hey, i'm nadia 👋
+# hey there!
 
 cs student building things i actually want to use. i like clean code, good ui, and figuring out why stuff breaks.
 
 ```python
-nadia = {
+nh = {
     "focus":     ["full-stack web", "data structures", "ui/ux"],
     "learning":  ["TypeScript", "system design", "PostgreSQL"],
     "tools":     ["React", "Node.js", "Python", "Figma"],
@@ -36,7 +36,7 @@ nadia = {
 
 ### stats
 
-![Nadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nhdez777&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Nh GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nhdez777&show_icons=true&theme=default&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nhdez777&layout=compact&hide_border=true&theme=default)
 
 ---
